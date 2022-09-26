@@ -1,0 +1,11 @@
+select {
+  width: 150px;
+  height: 30px;
+}
+
+.start-button {
+  background: #03A8F4;
+  margin-left: 10px;
+  width: 90px;
+  height: 30px;
+}
